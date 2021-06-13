@@ -1,2 +1,2 @@
 # sockets
-sockets in c
+simple sockets written in c
